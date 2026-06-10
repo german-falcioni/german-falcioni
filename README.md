@@ -1,18 +1,15 @@
 # Hi, I'm Germán Falcioni 👋
 
-**Applied AI Consultant & Data Analyst** based in Uruguay.
-I bridge the gap between Applied AI and real business value.
+**Business Intelligence & Applied AI Consultant** — I turn data into decisions and build the products that make it happen.
 
-🚀 **What I do:**
-- Co-Founder & AI Product Designer at [Preparadora.com](https://preparadora.com)
-- Creator of the C.A.F.E. method for corporate AI prompt engineering
-- Technical Educator: [Claude al máximo](https://www.udemy.com/course/claude-al-maximo-el-curso-completo-en-espanol/?referralCode=DCA9575CBA2CFF7733D8) on Udemy (5.0 ★)
-- Author of [IA en Primera Plana](https://germanfalcioni.com/blog) (50+ articles)
+🔧 **What I do**
+- **BI with AI** — dashboards, ETL, decision support. See `wine-market-analysis` (130K+ reviews, Python/R/SQL).
+- **I build products** — [Bitácora](https://bitacora.ai) is a clinical SaaS I designed and built end-to-end (AI reports, RAG, privacy by design).
+- **Method** — creator of **C.A.F.E.** (Context · Action · Format · Style) for professional prompting. See the pinned repo.
+- **Teaching** — "Claude al máximo" on Udemy + 100+ professionals trained in person.
 
-🛠️ **Tech Stack:** Python | SQL | R | Power BI | Claude | MCPs | GCP | Firebase
+🛠️ **Stack:** Python · SQL · R · TypeScript · Power BI · Claude AI · MCP · GCP · Firebase · Microsoft Fabric (in progress)
 
-🎓 **Education:** B.S. Data Science @ Universidad Siglo 21 (Dec 2026)
+🎓 **B.S. Data Science** @ Universidad Siglo 21 (Dec 2026) · 🌍 English C2 · Spanish native · 🛂 Italian (EU) + Uruguayan citizen
 
-🌐 **Languages:** English (C2) | Spanish (Native)
-
-📫 [germanfalcioni.com](https://germanfalcioni.com) | [LinkedIn](https://linkedin.com/in/germanfalcioni)
+📫 [germanfalcioni.com](https://germanfalcioni.com) · [LinkedIn](https://www.linkedin.com/in/germanfalcioni/) · hola@germanfalcioni.com
