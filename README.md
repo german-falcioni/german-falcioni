@@ -5,9 +5,7 @@
 🔧 **What I do**
 - **BI with AI** — dashboards, ETL, decision support. See `wine-market-analysis` (130K+ reviews, Python/R/SQL).
 - **I build products** — [Bitácora](https://bitacora.ai) is a clinical SaaS I designed and built end-to-end (AI reports, RAG, privacy by design).
-- **Method** — creator of **C.A.F.E.** (Context · Action · Format · Style) for professional prompting. See the pinned repo.
-- **Teaching** — "Claude al máximo" on Udemy + 100+ professionals trained in person.
-
+- **Teaching** — "Claude al máximo" on Udemy + 100+ professionals trained in person, with the **C.A.F.E.** method (Context · Action · Format · Style).
 🛠️ **Stack:** Python · SQL · R · TypeScript · Power BI · Claude AI · MCP · GCP · Firebase · Microsoft Fabric (in progress)
 
 🎓 **B.S. Data Science** @ Universidad Siglo 21 (Dec 2026) · 🌍 English C2 · Spanish native · 🛂 Italian (EU) + Uruguayan citizen
